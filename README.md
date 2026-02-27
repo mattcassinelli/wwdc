@@ -207,3 +207,23 @@ This is a community effort, which means it is not an official Apple initiative a
 Swift, the Swift logo, Swift Playground, Xcode, Instruments, Cocoa Touch, Touch ID, FaceID, iPhone, iPad, Safari, App Store, iPadOS, watchOS, tvOS, visionOS, Mac and macOS are trademarks of Apple Inc., registered in the U.S. and other countries.
 
 Although we are doing our best to check every link and pull request, we’re not able to endorse the websites posted here. If you have any concerns about this project or the links here, please [get in touch by email](mailto:paul@hackingwithswift.com) or [on Twitter](https://twitter.com/twostraws).
+
+
+## Developer setup
+
+- **Type:** Project
+
+- **Git:** [https://github.com/mattcassinelli/wwdc.git](https://github.com/mattcassinelli/wwdc.git)
+
+- **Recent commits:**
+  - `9534ce9` Text clean up (2025-06-03)
+
+- **Structure (snapshot):**
+  ```
+  .github/
+    pull_request_template.md
+  CODE_OF_CONDUCT.md
+  README.md
+  ```
+
+- *Snapshot: 2026-02-27*
