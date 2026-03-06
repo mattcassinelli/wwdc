@@ -229,3 +229,8 @@ Although we are doing our best to check every link and pull request, we’re not
 
 - *Snapshot: 2026-03-05*
 
+
+
+---
+
+**Note:** This repository is planned for deletion. Content has been migrated out of version control.
